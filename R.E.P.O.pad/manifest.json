@@ -1,9 +1,0 @@
-{
-  "name": "CustomSoundboard",
-  "version_number": "3.10.0",
-  "website_url": "https://github.com/yourname/REPO-CustomSoundboard",
-  "description": "In-game custom soundboard with microphone broadcasting support and hotkey bindings",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}
