@@ -1,9 +1,7 @@
 {
-  "name": "CustomSoundboard",
-  "version_number": "3.10.0",
-  "website_url": "https://github.com/Frilofril/R.E.P.O.pad",
-  "description": "In-game custom soundboard with microphone broadcasting support and hotkey bindings",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
+"name": "REPOpad",
+"version_number": "3.10.3",
+"website_url": "https://github.com/Frilofril/R.E.P.O.pad",
+"description": "In-game custom soundboard with microphone broadcasting support and hotkey bindings",
+"dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
 }
