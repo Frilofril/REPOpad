@@ -1,6 +1,6 @@
 {
 	"name": "REPOpad",
-	"version_number": "3.10.6",
+	"version_number": "3.11.0",
 	"website_url": "https://github.com/Frilofril/REPOpad",
 	"description": "In-game custom soundboard with microphone broadcasting support and hotkey bindings",
 	"dependencies": [ 
